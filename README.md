@@ -4,25 +4,25 @@ For Russian scroll down.
 ### The task
 Several tables with data about employers in a company are located in a server. I need to retrive this data and analyse it using sql only through sqlalchemy and pandas. And then prepare some recomendations for hr-department of a company. 
 ### What tools have been used?
-* sqp
-* sqlalchemy
-* matplolib
-* pandas 
+<br> sql
+<br>sqlalchemy
+<br>matplolib
+vpandas 
 ### Observations made
-* Men of any age have been working for company in average for 4-5 years. 
-* Women have the lowest amount of years employed by the age of 30 and after 45 their experience start to rise. 
-* Some managers were determined whose staff show low efficiency at work. 
-* Employers with the lowest salaries are often quit because of money issues, change of professions or general sense of unhappiness. 
+1. Men of any age have been working for company in average for 4-5 years. 
+2. Women have the lowest amount of years employed by the age of 30 and after 45 their experience start to rise. 
+<br>Some managers were determined whose staff show low efficiency at work. 
+<br>Employers with the lowest salaries are often quit because of money issues, change of professions or general sense of unhappiness. 
 * There are head-hunting resources that should be abandoned due to their high cost and low efficiency. 
 <br><br>
 # Анализ базы сотрудников компании и возможных корреляций между различными характерстиками сотрудников. 
 ### Задача 
 На основе таблиц в базе данных, в которых содержится информация о сотрудниках, подготовить рекомендации для отдела кадров. 
 ### Какие иснтрументы использовались? 
-* sqp
-* sqlalchemy
-* matplolib
-* pandas 
+<br>sql
+<br>sqlalchemy
+<br>matplolib
+<br>pandas 
 ### Общие рекомендации.
 
 <br><br> ВЛИЯЕТ ЛИ СЕМЕНОЕ ПОЛОЖЕНИЕ НА ЛОЯЛЬНОСТЬ? В целом меньше всего отрабатывают люди в семейном статусе 4, при чем женщины. Дольше всего отрабатывают в семейном статусе 3, причем мужчины. В статусах 1 и 0 отрабатывают примерно средне, как мужчины, так и женщины. 
