@@ -4,7 +4,7 @@ For Russian scroll down.
 ### The task
 Several tables with data about employers in a company are located in a server. I need to retrive this data and analyse it using sql only through sqlalchemy and pandas. And then prepare some recomendations for hr-department of a company. 
 ### What tools have been used?
-<br> sql
+<br>sql
 <br>sqlalchemy
 <br>matplolib
 vpandas 
@@ -12,8 +12,8 @@ vpandas
 1. Men of any age have been working for company in average for 4-5 years. 
 2. Women have the lowest amount of years employed by the age of 30 and after 45 their experience start to rise. 
 <br>Some managers were determined whose staff show low efficiency at work. 
-<br>Employers with the lowest salaries are often quit because of money issues, change of professions or general sense of unhappiness. 
-* There are head-hunting resources that should be abandoned due to their high cost and low efficiency. 
+3. Employers with the lowest salaries are often quit because of money issues, change of professions or general sense of unhappiness. 
+4. There are head-hunting resources that should be abandoned due to their high cost and low efficiency. 
 <br><br>
 # Анализ базы сотрудников компании и возможных корреляций между различными характерстиками сотрудников. 
 ### Задача 
